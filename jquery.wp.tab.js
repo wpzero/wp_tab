@@ -13,7 +13,7 @@
 
 (function($,undefined){
 
-$.widget('wp.wp_tag',{
+$.widget('wp.wp_tab',{
 	
 	version:'1.00.1',
 	options:{	
